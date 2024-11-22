@@ -18,5 +18,13 @@ def apply_border_radius(image_path, output_path, radius):
     # Save the result
     rounded_img.save(output_path, format="PNG")
 
+
+# CHANGE THESE VARS THEN RUN
+img_path=""
+output_path=""
+radius = 0
+
+
+
 # Example usage
-apply_border_radius("favicon.jpg", "favicon.ico", radius=150)
+apply_border_radius(img_path, output_path, radius)
