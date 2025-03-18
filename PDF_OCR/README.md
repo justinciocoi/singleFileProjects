@@ -1,0 +1,1 @@
+used to extract text from a PDF

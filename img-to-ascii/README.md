@@ -1,0 +1,1 @@
+This uses the Pillow library to assess pixel brightness, convert to an ASCII character, and render a grayscale representation of a provided image using only ASCII characters

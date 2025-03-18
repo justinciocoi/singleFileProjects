@@ -1,0 +1,1 @@
+Based on the idea that - given infinite time - a monkey with a typewriter could write out the entire works of Shakespeare, Monkey Type allows users to enter a text input and then randomly generates text (a-z|A-Z) until the entered string is also generated. 
